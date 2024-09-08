@@ -1,4 +1,4 @@
-# Bit-Seed - Seed Phrase Generatorr
+# Bit-Seed - Seed Phrase Generator
 
 Um parágrafo da descrição do projeto vai aqui
 
